@@ -180,8 +180,8 @@ top: 100px;
 
  #draggedToo {
    position: absolute;
-   left: 2700px;
-   bottom: 0px;
+   left: 2650px;
+   top: 1550px;
    width: 150px;
 
  }
