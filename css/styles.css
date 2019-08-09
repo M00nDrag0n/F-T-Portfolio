@@ -248,9 +248,10 @@ top: 100px;
 }
 
 #img-final-8 img {
-  position: absolute;
+  /* position: absolute;
   left: 2650px;
-  top: 1310px;
+  top: 1310px; */
+  float: right;
 }
 
 #img-final-9 img {
