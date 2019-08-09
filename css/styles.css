@@ -1,0 +1,162 @@
+body {
+  font-family: 'Spectral';
+  font-size: 19px;
+  text-align: center;
+  color: white;
+  max-width: 500px;
+  word-wrap: break-word;
+  background-image: url("https://wallup.net/wp-content/uploads/2018/09/29/652149-artwork-fantasy-magical-art-forest-tree-landscape-nature-waterfall.jpg");
+  background-repeat: no-repeat;
+}
+
+
+h1, h2 {
+  margin-left: 90px;
+  text-align: center;
+  border-style: solid;
+  border-color: black;
+  color: black;
+  background-color: white;
+}
+
+h1 {
+  margin-bottom: 0px;
+}
+
+ul {
+  text-align: left;
+  max-height: 150px;
+  margin-left: 10px;
+  max-width: 700px;
+  min-width: 10px;
+}
+
+ a{
+  color: #b8ecff;
+  text-align: left;
+
+}
+
+ol {
+  text-align: left;
+  text-indent: 10px;
+  margin-left: 10px;
+}
+
+
+.heads {
+  font-size: 36px;
+  text-decoration: underline;
+  margin-left: 80px;
+}
+
+#img img{
+  position: absolute;
+  top: 150px;
+  left: 800px;
+  height: 400px;
+  width: 400px;
+  z-index: 10;
+
+}
+
+#img-2 img {
+  position: absolute;
+  top: 50px;
+  left: 520px;
+  width: 300px;
+  height: 250px;
+}
+
+
+#img-3 img {
+
+  position: absolute;
+  top: 820px;
+  left: 90px;
+  width: 320px;
+  height: 320px;
+}
+
+#img-4 img {
+  position: absolute;
+  left: 940px;
+  top: 430px;
+  z-index: 4;
+}
+
+#img-5 {
+  position: absolute;
+  left: 960px;
+  top: 610px;
+  z-index: 3;
+}
+
+#img-6 {
+  position: absolute;
+  left: 970px;
+  top: 550px;
+  z-index: 2;
+}
+
+#img-7 {
+  position: absolute;
+  left: 960px;
+  top: 400px;
+  z-index: 4;
+}
+
+#img-8 img {
+  position: absolute;
+  left: 600px;
+  top: 200px;
+  z-index: 0;
+}
+
+
+.sparkles1  {
+  color: #6a0d8f;
+}
+
+.sparkles2  {
+  color: red;
+}
+
+.sparkles3  {
+  color: #1f76e0;
+}
+
+#Key {
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  left: 1125px;
+  border-style: solid;
+  border-color: white;
+  width: 300px;
+
+}
+
+.Key-FX {
+  margin-right: 5px;
+  padding-right: 10px;
+  padding-left: 10px;
+  border-style: solid;
+  border-color: #b8ecff;
+  text-decoration: underline;
+  text-decoration-color: white;
+}
+
+#speech-1 {
+max-width: 250px;
+position: absolute;
+left: 550px;
+top: 100px;
+}
+
+#speech-2 {
+  position: absolute;
+  top: 1200px;
+  left: 600px;
+
+}
