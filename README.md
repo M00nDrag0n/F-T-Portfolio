@@ -10,9 +10,9 @@ _This is a proper text of my coding skills, which also functions as both a profi
 
 ## Setup/Installation Requirements
 
-* _Clone this repository in your desktop_
-* _Open the repository in your browser_
-* _Explore my little webpage!_
+* _Copy paste this link into your browser https://m00ndrag0n.github.io/F-T-Portfolio/_
+* _Enjoy!_
+
 
 
 _You only need a working computer and access to the Internet in order to view this repository. _
